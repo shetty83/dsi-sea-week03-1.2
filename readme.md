@@ -53,7 +53,6 @@ Using the [starter code](./code/starter-code/W3-Lab-1.2-Starter.ipynb)
 * Load the data into pandas
 * Follow the instructions to generate plots of variables that may be usefully related
 
-> [Solution code](./code/solution-code/W3-Lab-1.2-)
 
 ## Additional Resources
 
